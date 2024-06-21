@@ -17,3 +17,11 @@ Two pointer approaches are also common for linked lists. This approach is used f
 - Getting the kth from last node - Have two pointers, where one is k nodes ahead of the other. When the node ahead reaches the end, the other node is k nodes behind
 - Detecting cycles - Have two pointers, where one pointer increments twice as much as the other, if the two pointers meet, means that there is a cycle
 - Getting the middle node - Have two pointers, where one pointer increments twice as much as the other. When the faster node reaches the end of the list, the slower node will be at the middle
+
+#### slow fast tip
+- if odd then fast = NULL , if even then fast = NODE if not cycle at END
+- while fast and fast.next
+- slow = fast = ListNode()
+- slow.next = head
+- slow = slow.next
+- fast = fast.next.next
