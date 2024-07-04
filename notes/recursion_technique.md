@@ -8,3 +8,7 @@
 3. Ensure the recursion terminates: Make sure that the recursive function eventually reaches the base case, and does not enter an infinite loop.
 
 4. Combine the solutions: Combine the solutions of the subproblems to solve the original problem.
+
+
+**Note**:-
+The base case no. might depend on the number of recursion function arguments.
