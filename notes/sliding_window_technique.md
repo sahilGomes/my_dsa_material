@@ -12,3 +12,4 @@ It ensures that each value is only visited at most twice and the time complexity
     - At any step if our condition for left pointer shrink satisfies, we shrink the size of our window by increasing left pointer.
     - Again, when our condition false for left pointer, we start increasing the right pointer and follow step 1.
     - We follow these steps until we reach to the end of the array.
+    -example:-https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
