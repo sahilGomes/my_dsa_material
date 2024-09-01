@@ -1,7 +1,7 @@
 # Techniques for data structures
 -  **[Array](https://www.techinterviewhandbook.org/algorithms/array/)**
-    1. sliding window
-    2. two pointer(may be more)
+    1. two pointer(may be more)
+    2. sliding window
     3. traversing from right
     4. precomputation
     5. sorting the array
