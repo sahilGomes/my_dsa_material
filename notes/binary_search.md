@@ -1,5 +1,5 @@
 ### Binary search
-
+tp
 #### Points to notes:-
 1. problems suggest to search in O(log n) time.
 2. In this problems we should focus on mid,left,right logic to shift them accordingly.(conditon should be checked with mid)
