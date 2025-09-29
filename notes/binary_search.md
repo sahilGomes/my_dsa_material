@@ -7,3 +7,4 @@
 
 **Note**
 not only first approach to left hand side but can be right side of binary tree format(https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+
